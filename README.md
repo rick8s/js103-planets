@@ -11,3 +11,14 @@ Public property for holding a last modified date.
 Getter/setter for spacecraft currently exploring solar system. These should be stored in a private array.
 
 Any other fun/related data that the student wants to add.
+
+
+AUGMENTING
+
+Have students create a new JS file for the solar system application that augments the SolarSystem module they created in the initial JS file.
+
+Getter for an array of closest 5 stars to the Sun.
+
+Getter/setter for the estimated age of the solar system in earth years.
+
+Getter/setter for array of known dwarf planets.

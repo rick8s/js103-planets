@@ -1,6 +1,6 @@
 var solarSystem = (function(){
 	var planets = ["mercury, venus, earth, mars, jupiter, saturn, uranus, neptune"];
-	var planetsLandedOn = 0;;
+	var planetsLandedOn = 0;
 	var activeSpacecraft = [];
 
 return {
@@ -29,4 +29,6 @@ return {
  };
 })();
 
-console.log(solarSystem);
+
+
+console.log(solarSystem.getLandedOn());
